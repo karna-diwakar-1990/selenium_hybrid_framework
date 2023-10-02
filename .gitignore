@@ -10,3 +10,6 @@ buildNumber.properties
 
 # Ignore VSCode files
 .vscode
+
+#Ignore Logs
+Logs/
